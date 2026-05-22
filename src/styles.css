@@ -1,0 +1,291 @@
+:root {
+  --bg: #0f172a;
+  --surface: #1e293b;
+  --surface-2: #273449;
+  --border: #334155;
+  --text: #e2e8f0;
+  --muted: #94a3b8;
+  --primary: #6366f1;
+  --primary-hover: #4f46e5;
+  --entrada: #22c55e;
+  --saida: #ef4444;
+  --radius: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px 20px 60px;
+}
+
+.topbar {
+  margin-bottom: 24px;
+}
+.topbar h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+.muted {
+  color: var(--muted);
+  margin: 4px 0 0;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 24px;
+  align-items: start;
+}
+@media (max-width: 880px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+}
+
+/* ---- Form ---- */
+.form h2 {
+  margin: 0 0 16px;
+  font-size: 1.15rem;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.field span {
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.field-row {
+  display: flex;
+  gap: 12px;
+}
+.field-row .field {
+  flex: 1;
+}
+input,
+select {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  color: var(--text);
+  font-size: 0.95rem;
+  width: 100%;
+}
+input:focus,
+select:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+.type-toggle {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.toggle {
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--muted);
+  cursor: pointer;
+  font-weight: 600;
+}
+.toggle.active.entrada {
+  background: rgba(34, 197, 94, 0.15);
+  border-color: var(--entrada);
+  color: var(--entrada);
+}
+.toggle.active.saida {
+  background: rgba(239, 68, 68, 0.15);
+  border-color: var(--saida);
+  color: var(--saida);
+}
+
+.form-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 4px;
+}
+.btn {
+  border: none;
+  border-radius: 8px;
+  padding: 11px 18px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn.primary {
+  background: var(--primary);
+  color: white;
+}
+.btn.primary:hover {
+  background: var(--primary-hover);
+}
+.btn.ghost {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+
+/* ---- Summary ---- */
+.summary {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 20px;
+}
+@media (max-width: 620px) {
+  .summary {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.stat {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px;
+}
+.stat-label {
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.stat-value {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+.stat.entrada .stat-value {
+  color: var(--entrada);
+}
+.stat.saida .stat-value {
+  color: var(--saida);
+}
+.stat.saldo.positive .stat-value {
+  color: var(--entrada);
+}
+.stat.saldo.negative .stat-value {
+  color: var(--saida);
+}
+
+/* ---- Filters ---- */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+.filters .field {
+  margin-bottom: 0;
+  min-width: 130px;
+}
+
+/* ---- List ---- */
+.list {
+  padding: 0;
+  overflow: hidden;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 14px 16px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+th {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+tbody tr:last-child td {
+  border-bottom: none;
+}
+tbody tr:hover {
+  background: var(--surface-2);
+}
+.num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+td.num.entrada {
+  color: var(--entrada);
+  font-weight: 600;
+}
+td.num.saida {
+  color: var(--saida);
+  font-weight: 600;
+}
+.tag {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 0.8rem;
+}
+.actions {
+  text-align: right;
+  white-space: nowrap;
+}
+.icon-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  border-radius: 6px;
+  padding: 6px 10px;
+  margin-left: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.icon-btn:hover {
+  color: var(--text);
+  border-color: var(--primary);
+}
+.icon-btn.danger:hover {
+  color: var(--saida);
+  border-color: var(--saida);
+}
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+}
+
+.error {
+  color: var(--saida);
+  font-size: 0.9rem;
+}
+.error.banner {
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid var(--saida);
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin: 0 0 16px;
+}
