@@ -73,16 +73,18 @@ Para não perder lead de madrugada e responder em segundos. Configure no **ManyC
 > 3) ¿Qué día te queda mejor — [A] o [B]? 🗓️
 > (O agenda aquí 👉 [LINK])
 
-### Resposta para APARTAMENTO (Osmose Reversa) — 3 idiomas
-- 🇺🇸 "Perfect — for apartments the **Reverse Osmosis** system is ideal: pure water for drinking
-  & cooking, installed under the sink, **no construction**, and it moves with you. Want to book
-  your free test? [A] or [B]?"
-- 🇧🇷 "Perfeito — para apartamento o sistema de **Osmose Reversa** é ideal: água pura para beber
-  e cozinhar, embaixo da pia, **sem obra**, e vai com você na mudança. Bora agendar o teste
-  grátis? [A] ou [B]?"
-- 🇪🇸 "Perfecto — para apartamentos el sistema de **Ósmosis Inversa** es ideal: agua pura para
-  beber y cocinar, bajo el fregadero, **sin obras**, y se va contigo. ¿Agendamos tu prueba
-  gratis? [A] o [B]?"
+### Resposta para APARTAMENTO (Kit Apartamento) — 3 idiomas
+> Apartamento recebe o **Kit Apartamento** (sem obra): **Osmose Reversa dual faucet alcalina** +
+> **filtro de chuveiro premium** + **filtros nas torneiras dos banheiros**. Ver `19-kits-e-ofertas.md`.
+- 🇺🇸 "Perfect — for apartments we have the full **Apartment Kit** (no construction): alkaline
+  Reverse Osmosis in the kitchen + premium shower filter + bathroom faucet filters. Pure water
+  everywhere, and it moves with you. Want to book your free test? [A] or [B]?"
+- 🇧🇷 "Perfeito — pra apartamento temos o **Kit Apartamento** completo (sem obra): Osmose Reversa
+  alcalina na cozinha + filtro de chuveiro premium + filtros nas torneiras dos banheiros. Água
+  pura em tudo, e vai com você na mudança. Bora agendar o teste grátis? [A] ou [B]?"
+- 🇪🇸 "Perfecto — para apartamentos tenemos el **Kit Apartamento** completo (sin obras): Ósmosis
+  Inversa alcalina en la cocina + filtro de ducha premium + filtros en los grifos del baño. Agua
+  pura en todo, y se va contigo. ¿Agendamos tu prueba gratis? [A] o [B]?"
 
 ---
 

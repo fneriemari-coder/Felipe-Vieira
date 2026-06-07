@@ -13,6 +13,10 @@ público que sente o problema (pele seca, queda de cabelo, cuidado pessoal). Est
 **(1)** vender o filtro **para o próprio negócio** (usam no espaço); **(2)** virar **canal de
 indicação** (eles recomendam aos clientes e ganham comissão).
 
+> 💡 **Importante:** o dono do salão/clínica/academia **tem casa** → ofereça a ele o **Kit Casa**
+> completo (Full Home + Osmose Reversa alcalina). Para os **clientes** dele, o gancho é beleza
+> (filtro de chuveiro/torneira) → indicação. Ver `19-kits-e-ofertas.md`.
+
 ### Lista de alvos (mapear em Orlando e região)
 - Salões de beleza e barbearias
 - Clínicas de estética / *med spas* / *skincare clinics*

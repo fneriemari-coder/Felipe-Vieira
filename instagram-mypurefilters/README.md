@@ -23,6 +23,7 @@ no nicho de filtragem de água premium nos EUA.
 
 | Arquivo | O que contém |
 |---|---|
+| [`00-guia-setup-rapido.md`](00-guia-setup-rapido.md) | **Passo a passo de setup** — Conta Business + bio EN/PT + botões + Calendly + link da bio (faça primeiro) |
 | [`01-perfil-e-bio.md`](01-perfil-e-bio.md) | Nome de usuário, nome do perfil, bio EN+PT, CTA, estratégia de link |
 | [`02-identidade-visual.md`](02-identidade-visual.md) | Paleta de cores, tipografia, foto de perfil, banners, design system, templates de feed |
 | [`03-destaques.md`](03-destaques.md) | 13 destaques, capas, sequência ideal e roteiro de cada |
@@ -42,6 +43,8 @@ no nicho de filtragem de água premium nos EUA.
 | [`17-kit-prospeccao.md`](17-kit-prospeccao.md) | **Kit de prospecção** — foco em beleza/estética/saúde, grupos, DM, indicação, presencial (mensagens EN/PT/ES) |
 | [`crm/`](crm/) | **Planilhas CSV** — CRM de leads + placar diário rumo às 40 vendas |
 | [`18-direcao-criativa.md`](18-direcao-criativa.md) | **Brand Playbook (direção de criação)** — a grande ideia "PURE CHANGES EVERYTHING", teste dos 3s, franquias de conteúdo, 3 campanhas-herói, tom de voz EN/PT/ES, fórmula de impacto, uso do logo |
+| [`19-kits-e-ofertas.md`](19-kits-e-ofertas.md) | **Kits & ofertas (fonte única)** — Kit Casa (Full Home + RO alcalina) e Kit Apartamento (RO dual faucet alcalina + chuveiro premium + torneiras banheiro) + pitch EN/PT/ES |
+| [`20-roteiro-canva.md`](20-roteiro-canva.md) | **Roteiro de geração no Canva** — lista de cada peça + prompt/brief pronto para gerar em lote quando a cota voltar |
 | [`artes/`](artes/) | **Logo vetorial** da marca. A arte final dos posts será produzida no **Canva** (quando a cota voltar) usando os briefs do arquivo 11 |
 
 ---

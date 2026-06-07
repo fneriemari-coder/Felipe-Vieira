@@ -1,8 +1,9 @@
 # 14 — Plano Agressivo de Lançamento (Sprint para Resultado Rápido)
 
 > **Meta declarada:** 40 leads/dia para agendamento + 40 vendas até **05 do próximo mês**,
-> público **brasileiro e hispânico** em **Orlando e região**, casas próprias e alugadas
-> (sistema completo) e **apartamentos apenas para Osmose Reversa**. Conta começa com 1 seguidor.
+> público **brasileiro e hispânico** em **Orlando e região**. Casas → **Kit Casa** (Full Home +
+> Osmose Reversa alcalina); apartamentos → **Kit Apartamento** (RO dual faucet alcalina + chuveiro
+> premium + torneiras dos banheiros). Definição completa em `19-kits-e-ofertas.md`. Conta começa com 1 seguidor.
 
 ---
 
@@ -93,7 +94,7 @@ Lake Nona, St. Cloud, Apopka, Ocoee, Winter Springs. Pessoas que **moram lá** (
 |---|---|---|
 | **Casa própria** | Full Home System (+ RO) | Solução completa, valoriza o imóvel, "instale uma vez" |
 | **Casa alugada** | Shower/Faucet Filter + **RO** | Soluções **sem obra**, leva na mudança |
-| **Apartamento** | **APENAS Osmose Reversa** | RO sob a pia: água pura p/ beber/cozinhar, sem obra |
+| **Apartamento** | **Kit Apartamento** (RO dual faucet alcalina + chuveiro premium + torneiras banheiro) | Sem obra, vai na mudança — ver `19-kits-e-ofertas.md` |
 
 ### Interesses (somar ao geo + idioma)
 - **BR:** marcas/mídia brasileiras, comunidades brasileiras em Orlando, futebol BR, igrejas BR.
@@ -159,7 +160,7 @@ Lake Nona, St. Cloud, Apopka, Ocoee, Winter Springs. Pessoas que **moram lá** (
 1. "Você é de Orlando ou região? 📍" / "¿Estás en Orlando o cerca? 📍"
 2. "É casa própria, alugada ou apartamento? 🏠" / "¿Casa propia, rentada o apartamento?"
 3. "Melhor dia pro teste grátis: [A] ou [B]? 🗓️" / "¿Mejor día: [A] o [B]?"
-> Apartamento → ofereça **só Osmose Reversa**. Casa → completo. **Agende na 3ª mensagem.**
+> Apartamento → **Kit Apartamento**. Casa → **Kit Casa** (Full Home + RO alcalina). **Agende na 3ª mensagem.** (`19-...`)
 
 ---
 
