@@ -36,6 +36,7 @@ no nicho de filtragem de água premium nos EUA.
 | [`11-pecas-prontas-feed-stories.md`](11-pecas-prontas-feed-stories.md) | **Peças prontas (arte + texto)** de feed e stories com a copy oficial |
 | [`12-cronograma-operacional.md`](12-cronograma-operacional.md) | **Cronograma operacional** — horários fixos, rotina semanal, dia de produção em lote, checklists diário/semanal/mensal |
 | [`13-protocolo-trafego-impulsionamento.md`](13-protocolo-trafego-impulsionamento.md) | **Runbook de tráfego pago + impulsionamento** — passo a passo, rotinas, regras de escalar/manter/matar, orçamento, troubleshooting |
+| [`14-plano-agressivo-lancamento.md`](14-plano-agressivo-lancamento.md) | **Plano de guerra (sprint 28 dias)** — meta 40 leads/dia + 40 vendas, público BR+Espanhol, apartamento→só Osmose Reversa, orçamento, copy PT/ES, prospecção direta, Semana 1 dia a dia e placar diário |
 | [`artes/`](artes/) | **Logo vetorial** da marca. A arte final dos posts será produzida no **Canva** (quando a cota voltar) usando os briefs do arquivo 11 |
 
 ---
