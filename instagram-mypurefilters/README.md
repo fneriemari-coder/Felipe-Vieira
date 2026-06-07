@@ -34,6 +34,8 @@ no nicho de filtragem de água premium nos EUA.
 | [`09-crescimento-autoridade-local.md`](09-crescimento-autoridade-local.md) | Crescimento orgânico, autoridade, dominância local EUA, hashtags |
 | [`10-ativos-e-imagens.md`](10-ativos-e-imagens.md) | **Catálogo real dos 4 produtos**, certificações (WQA/NSF/ANSI/Made in USA), specs oficiais, mapa de todas as imagens enviadas |
 | [`11-pecas-prontas-feed-stories.md`](11-pecas-prontas-feed-stories.md) | **Peças prontas (arte + texto)** de feed e stories com a copy oficial |
+| [`12-cronograma-operacional.md`](12-cronograma-operacional.md) | **Cronograma operacional** — horários fixos, rotina semanal, dia de produção em lote, checklists diário/semanal/mensal |
+| [`13-protocolo-trafego-impulsionamento.md`](13-protocolo-trafego-impulsionamento.md) | **Runbook de tráfego pago + impulsionamento** — passo a passo, rotinas, regras de escalar/manter/matar, orçamento, troubleshooting |
 | [`artes/`](artes/) | **Logo vetorial** da marca. A arte final dos posts será produzida no **Canva** (quando a cota voltar) usando os briefs do arquivo 11 |
 
 ---
