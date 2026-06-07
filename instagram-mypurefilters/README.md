@@ -73,6 +73,6 @@ no nicho de filtragem de água premium nos EUA.
 ## 📞 Dados de Contato (preencher)
 
 - **E-mail:** fneriemari@gmail.com
-- **Telefone/WhatsApp:** `[INSERIR TELEFONE]`
+- **Telefone/WhatsApp:** +1 (407) 866-4853 · link: https://wa.me/14078664853
 - **Região de atuação:** Flórida — Orlando & Miami
 - **Link da bio:** `[INSERIR LINK]` (sugestão de estrutura em `01-perfil-e-bio.md`)

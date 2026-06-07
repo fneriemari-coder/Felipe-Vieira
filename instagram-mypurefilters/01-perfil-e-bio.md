@@ -101,7 +101,7 @@ nos Stories e como CTA dos anúncios. Repetição = reconhecimento = conversão.
 ## 🔘 Botões de Ação do Perfil (configurar)
 
 - ✅ **Botão de Contato:** E-mail (fneriemari@gmail.com)
-- ✅ **Botão de Ligar:** `[INSERIR TELEFONE]`
+- ✅ **Botão de Ligar:** +1 (407) 866-4853 · WhatsApp: https://wa.me/14078664853
 - ✅ **Botão de WhatsApp:** vincular conta Business → ativa CTA "Enviar mensagem"
 - ✅ **Categoria do perfil:** "Serviço de melhoria da casa" ou "Produto/Serviço"
 - ✅ **Conta Profissional (Business)** — obrigatório para anúncios e métricas

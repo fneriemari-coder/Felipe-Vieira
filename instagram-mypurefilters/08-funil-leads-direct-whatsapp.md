@@ -52,9 +52,9 @@ Posso te mandar as infos do teste grátis e fazer 2 perguntinhas rápidas? 😊"
 
 ### 3) Ponte para o WhatsApp (onde fecha)
 🇺🇸 "Perfect 🙌 The easiest next step is a quick chat on WhatsApp so I can give you exact info
-and book your free test. Here's my number: [WHATSAPP] — or tap here 👉 [LINK]."
+and book your free test. Here's my number: +1 (407) 866-4853 — or tap here 👉 https://wa.me/14078664853"
 🇧🇷 "Perfeito 🙌 O mais fácil agora é continuarmos no WhatsApp pra eu te passar tudo certinho e
-agendar seu teste grátis. Meu número: [WHATSAPP] — ou toca aqui 👉 [LINK]."
+agendar seu teste grátis. Meu número: +1 (407) 866-4853 — ou toca aqui 👉 https://wa.me/14078664853"
 
 ---
 

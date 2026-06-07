@@ -54,7 +54,7 @@ Premium water filtration for a healthier home
 ## ✅ PASSO 6 — Botões de ação do perfil
 **Editar perfil → Opções de contato:**
 - ✅ **E-mail:** fneriemari@gmail.com
-- ✅ **Telefone/Ligar:** `[INSERIR TELEFONE]`
+- ✅ **Telefone/Ligar:** +1 (407) 866-4853
 - ✅ **WhatsApp:** vincular (ativa "Enviar mensagem")
 
 ## ✅ PASSO 7 — Link de agendamento (Calendly)
