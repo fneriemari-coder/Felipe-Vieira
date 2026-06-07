@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" font-family="Poppins, 'Century Gothic', Montserrat, Arial, sans-serif">
+  <!-- Recriação vetorial do wordmark MY PURE filter. Versão clara (para fundo escuro). -->
+  <!-- Para fundo claro, troque os fills #FFFFFF por #0B1A2B e #9FB3C8 por #5C6B7A. -->
+  <rect width="600" height="320" fill="none"/>
+  <text x="300" y="120" text-anchor="middle" fill="#C9D3DD" font-size="40" letter-spacing="14" font-weight="500">MY PURE</text>
+  <text x="300" y="245" text-anchor="middle" fill="#FFFFFF" font-size="150" font-weight="800" letter-spacing="-4">filter</text>
+  <!-- ponto do "i" em destaque sutil (opcional, gota da marca) -->
+  <circle cx="300" cy="300" r="0" fill="#E8821E"/>
+</svg>
