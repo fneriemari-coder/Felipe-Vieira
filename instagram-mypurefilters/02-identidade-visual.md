@@ -44,9 +44,12 @@ As artes oficiais usam uma **sans-serif geométrica arredondada** nos títulos (
 wordmark "filter" e dos títulos "Full Home System" / "Reverse Osmosis"). Para combinar
 com a marca, use uma geométrica do mesmo DNA.
 
+> 🎯 **Fonte do wordmark "filter":** sans-serif **geométrica ARREDONDADA e pesada**. Para os
+> textos combinarem com o logo, use **Fredoka** (mais próxima) ou **Quicksand Bold** nos títulos.
+
 | Função | Fonte recomendada (combina c/ a marca) | Alternativa grátis (Canva/Google) |
 |---|---|---|
-| **Títulos / Headlines** | Century Gothic / Poppins (Medium-SemiBold) | Questrial, Sofia Sans, Nunito Sans |
+| **Títulos / Headlines** | **Fredoka** (SemiBold) / **Quicksand** (Bold) — cara do logo | Baloo 2, Nunito ExtraBold, Poppins |
 | **Subtítulos (em laranja)** | Poppins Medium | Nunito Sans Medium |
 | **Corpo / Legendas no post** | Inter ou Open Sans | Lato, Source Sans |
 | **Destaque/Selo** | Poppins SemiBold MAIÚSCULAS + tracking +50 | — |

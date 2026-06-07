@@ -8,7 +8,8 @@
 
 ## 🔧 Pré-passos (1 vez)
 1. **Brand Kit no Canva:** cores `#0B1A2B` (navy), `#E8821E` (laranja), `#FFFFFF`, `#EFE7DB` (areia),
-   `#1E272E`; fontes **Poppins/Century Gothic** (tech) + **Cormorant/Playfair** (beauty); subir **logo**.
+   `#1E272E`; fontes de título **Fredoka/Quicksand** (combinam com o logo) + **Cormorant/Playfair**
+   (beauty) + Inter (corpo); subir o **logo transparente** (versão branca e escura).
 2. **Upload das fotos oficiais** (nomes em `10-ativos-e-imagens.md`) para inserir nas artes.
 3. Gerar com `brand_kit_id` + `asset_ids` (foto certa por peça) — logo aplicado pelo Brand Kit.
 
@@ -16,7 +17,8 @@
 > "Premium water-filtration brand 'My Pure Filters'. Deep navy (#0B1A2B) or warm sand background,
 > orange (#E8821E) accent only on CTA/badges, white text. Geometric sans (Poppins) for tech, elegant
 > serif for beauty. Include the 'MY PURE filter' logo, lots of negative space, water-drop motif,
-> clean and trustworthy, modern American premium look. Badge: 'Official My Pure Filters Rep · Orlando'."
+> clean and trustworthy, modern American premium look. Headlines in a ROUNDED geometric font
+> (Fredoka/Quicksand) to match the logo. Badge: 'Official My Pure Filters Rep · Orlando'."
 
 ---
 
