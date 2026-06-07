@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" font-family="Poppins, 'Century Gothic', Montserrat, Arial, sans-serif">
+  <defs>
+    <radialGradient id="bg2" cx="50%" cy="30%" r="85%">
+      <stop offset="0%" stop-color="#143352"/>
+      <stop offset="60%" stop-color="#0B1A2B"/>
+      <stop offset="100%" stop-color="#05080D"/>
+    </radialGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg2)"/>
+
+  <text x="80" y="150" fill="#E8821E" font-size="26" letter-spacing="5">EDUCATION • EDUCAÇÃO</text>
+
+  <!-- headline -->
+  <text x="80" y="270" fill="#FFFFFF" font-size="74" font-weight="700">What's REALLY</text>
+  <text x="80" y="355" fill="#FFFFFF" font-size="74" font-weight="700">in your tap water?</text>
+  <text x="80" y="420" fill="#9FB3C8" font-size="30">O que tem de verdade na sua torneira?</text>
+
+  <!-- contaminant cards -->
+  <g>
+    <rect x="80" y="490" width="430" height="150" rx="22" fill="#0F2742" stroke="#2C5A82" stroke-width="1.5"/>
+    <circle cx="155" cy="565" r="34" fill="#E8821E"/>
+    <text x="155" y="577" text-anchor="middle" fill="#0B1A2B" font-size="34" font-weight="700">Cl</text>
+    <text x="215" y="555" fill="#FFFFFF" font-size="34" font-weight="600">Chlorine</text>
+    <text x="215" y="600" fill="#9FB3C8" font-size="24">Cloro &amp; subprodutos</text>
+
+    <rect x="570" y="490" width="430" height="150" rx="22" fill="#0F2742" stroke="#2C5A82" stroke-width="1.5"/>
+    <circle cx="645" cy="565" r="34" fill="#E8821E"/>
+    <text x="645" y="577" text-anchor="middle" fill="#0B1A2B" font-size="34" font-weight="700">Pb</text>
+    <text x="705" y="555" fill="#FFFFFF" font-size="34" font-weight="600">Lead</text>
+    <text x="705" y="600" fill="#9FB3C8" font-size="24">Chumbo (canos)</text>
+
+    <rect x="80" y="670" width="430" height="150" rx="22" fill="#0F2742" stroke="#2C5A82" stroke-width="1.5"/>
+    <circle cx="155" cy="745" r="34" fill="#E8821E"/>
+    <text x="155" y="757" text-anchor="middle" fill="#0B1A2B" font-size="26" font-weight="700">PFAS</text>
+    <text x="215" y="735" fill="#FFFFFF" font-size="34" font-weight="600">PFAS</text>
+    <text x="215" y="780" fill="#9FB3C8" font-size="24">"Forever chemicals"</text>
+
+    <rect x="570" y="670" width="430" height="150" rx="22" fill="#0F2742" stroke="#2C5A82" stroke-width="1.5"/>
+    <circle cx="645" cy="745" r="34" fill="#E8821E"/>
+    <text x="645" y="757" text-anchor="middle" fill="#0B1A2B" font-size="30" font-weight="700">◦◦</text>
+    <text x="705" y="735" fill="#FFFFFF" font-size="32" font-weight="600">Microplastics</text>
+    <text x="705" y="780" fill="#9FB3C8" font-size="24">Microplásticos</text>
+  </g>
+
+  <!-- punchline -->
+  <text x="540" y="940" text-anchor="middle" fill="#FFFFFF" font-size="48" font-weight="700">Clear  ≠  Clean</text>
+  <text x="540" y="995" text-anchor="middle" fill="#9FB3C8" font-size="30">Transparente não é o mesmo que limpa.</text>
+
+  <!-- CTA -->
+  <rect x="240" y="1080" width="600" height="96" rx="48" fill="#E8821E"/>
+  <text x="540" y="1140" text-anchor="middle" fill="#0B1A2B" font-size="34" font-weight="700">Comment "WATER" for a free check</text>
+
+  <text x="540" y="1270" text-anchor="middle" fill="#FFFFFF" font-size="24" letter-spacing="3" opacity="0.85">FELIPE VIEIRA • MY PURE FILTERS • ORLANDO &amp; MIAMI</text>
+</svg>

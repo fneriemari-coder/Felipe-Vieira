@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" font-family="Poppins, 'Century Gothic', Montserrat, Arial, sans-serif">
+  <defs>
+    <radialGradient id="sbg" cx="50%" cy="35%" r="80%">
+      <stop offset="0%" stop-color="#143352"/>
+      <stop offset="60%" stop-color="#0B1A2B"/>
+      <stop offset="100%" stop-color="#05080D"/>
+    </radialGradient>
+    <linearGradient id="sor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F0A03A"/><stop offset="100%" stop-color="#E8821E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#sbg)"/>
+
+  <g stroke="#2C5A82" stroke-width="2" fill="none" opacity="0.22">
+    <circle cx="900" cy="360" r="160"/><circle cx="900" cy="360" r="240"/>
+    <circle cx="160" cy="1560" r="170"/><circle cx="160" cy="1560" r="250"/>
+  </g>
+
+  <text x="540" y="360" text-anchor="middle" fill="#9FB3C8" font-size="26" letter-spacing="6">MY PURE</text>
+  <text x="540" y="420" text-anchor="middle" fill="#FFFFFF" font-size="64" font-weight="700">filter</text>
+
+  <!-- gift / offer -->
+  <text x="540" y="640" text-anchor="middle" font-size="120">🎁</text>
+
+  <text x="540" y="820" text-anchor="middle" fill="#E8821E" font-size="40" letter-spacing="3" font-weight="700">THIS MONTH ONLY</text>
+  <text x="540" y="930" text-anchor="middle" fill="#FFFFFF" font-size="80" font-weight="700">FREE</text>
+  <text x="540" y="1020" text-anchor="middle" fill="#FFFFFF" font-size="68" font-weight="700">Water Test</text>
+  <text x="540" y="1095" text-anchor="middle" fill="#9FB3C8" font-size="36">Teste grátis da sua água</text>
+
+  <text x="540" y="1210" text-anchor="middle" fill="#FFFFFF" font-size="34">Discover exactly what's in your tap water</text>
+  <text x="540" y="1260" text-anchor="middle" fill="#9FB3C8" font-size="30">Sem compromisso • No pressure</text>
+
+  <!-- CTA button (place link sticker on top) -->
+  <rect x="190" y="1420" width="700" height="120" rx="60" fill="url(#sor)"/>
+  <text x="540" y="1497" text-anchor="middle" fill="#0B1A2B" font-size="44" font-weight="700">TAP HERE → WhatsApp</text>
+
+  <text x="540" y="1640" text-anchor="middle" fill="#FFFFFF" font-size="28" letter-spacing="2">👆 Arraste pra cima / Toque no link</text>
+
+  <text x="540" y="1780" text-anchor="middle" fill="#9FB3C8" font-size="28" letter-spacing="3">ORLANDO  •  MIAMI</text>
+  <text x="540" y="1825" text-anchor="middle" fill="#9FB3C8" font-size="24" opacity="0.8">Official My Pure Filters Rep</text>
+</svg>
