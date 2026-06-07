@@ -1,7 +1,11 @@
 # 11 — Peças Prontas: Feed + Stories (com arte + texto)
 
 > Peças montadas a partir dos **ativos oficiais** enviados pelo Felipe. Cada uma indica a
-> **arte** (SVG em `artes/` ou imagem oficial em `assets/`) + **texto pronto** (EN/PT) + CTA.
+> **arte** + **texto pronto** (EN/PT) + CTA.
+
+> ℹ️ **Nota:** a arte final será feita no **Canva** (Felipe avisa quando a cota voltar).
+> As referências a `artes/*.svg` abaixo foram retiradas — use cada bloco como **brief de
+> layout** para o Canva, combinando com a imagem oficial em `assets/` (ver `10-...md`).
 > Para o feed temático completo (30 posts), ver `04-feed-30-posts.md`. Aqui estão as peças
 > ancoradas nos materiais da marca + a copy oficial nova (certificações, specs, processo).
 
