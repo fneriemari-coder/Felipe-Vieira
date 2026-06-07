@@ -36,7 +36,11 @@ no nicho de filtragem de água premium nos EUA.
 | [`11-pecas-prontas-feed-stories.md`](11-pecas-prontas-feed-stories.md) | **Peças prontas (arte + texto)** de feed e stories com a copy oficial |
 | [`12-cronograma-operacional.md`](12-cronograma-operacional.md) | **Cronograma operacional** — horários fixos, rotina semanal, dia de produção em lote, checklists diário/semanal/mensal |
 | [`13-protocolo-trafego-impulsionamento.md`](13-protocolo-trafego-impulsionamento.md) | **Runbook de tráfego pago + impulsionamento** — passo a passo, rotinas, regras de escalar/manter/matar, orçamento, troubleshooting |
-| [`14-plano-agressivo-lancamento.md`](14-plano-agressivo-lancamento.md) | **Plano de guerra (sprint 28 dias)** — meta 40 leads/dia + 40 vendas, público BR+Espanhol, apartamento→só Osmose Reversa, orçamento, copy PT/ES, prospecção direta, Semana 1 dia a dia e placar diário |
+| [`14-plano-agressivo-lancamento.md`](14-plano-agressivo-lancamento.md) | **Plano de guerra (sprint 28 dias)** — metas calibradas ($50–100/dia · 5–8 visitas), apartamento→só Osmose Reversa, copy PT/ES, prospecção, Semana 1 dia a dia, placar |
+| [`15-posts-espanol.md`](15-posts-espanol.md) | **Posts em Español** — legendas + CTA dos 30 posts para o público hispânico |
+| [`16-setup-agendamento.md`](16-setup-agendamento.md) | **Setup de agendamento** — Calendly + ManyChat (palavra-chave) + mensagens automáticas EN/PT/ES + speed-to-lead |
+| [`17-kit-prospeccao.md`](17-kit-prospeccao.md) | **Kit de prospecção** — foco em beleza/estética/saúde, grupos, DM, indicação, presencial (mensagens EN/PT/ES) |
+| [`crm/`](crm/) | **Planilhas CSV** — CRM de leads + placar diário rumo às 40 vendas |
 | [`artes/`](artes/) | **Logo vetorial** da marca. A arte final dos posts será produzida no **Canva** (quando a cota voltar) usando os briefs do arquivo 11 |
 
 ---

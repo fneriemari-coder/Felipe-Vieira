@@ -29,6 +29,30 @@ Com 1 seguidor, **o orgânico não gera 40 leads/dia.** O que gera volume rápid
 
 ---
 
+## 🎯 METAS CALIBRADAS À SUA REALIDADE (verba $50–100/dia · 5–8 visitas/dia · solo)
+
+> Decisão do Felipe: investir **$50–100/dia** e fazer **5–8 apresentações/dia** sozinho.
+> Com isso, eis o cenário **realista** (a meta de 40 leads/dia exige verba bem maior):
+
+| Item | Realista com $50–100/dia | Observação |
+|---|---|---|
+| **Leads pagos/dia** | ~**8–20** (depende do CPL) | A oferta de teste grátis derruba o CPL |
+| **Leads de prospecção/dia** | +**10–20** (manual) | É o que completa o volume sem gastar mais |
+| **Total de leads/dia** | ~**20–35** | Combinando pago + prospecção (perto da meta) |
+| **Apresentações/dia** | **5–8** (sua capacidade) | O gargalo real — priorize os mais quentes |
+| **Vendas/dia** (fech. ~30%) | ~**1,5–2,4** | → **~42–67 vendas em 28 dias SE** mantiver a agenda cheia |
+
+**Tradução:** as **40 vendas até dia 05 são alcançáveis** com $50–100/dia **desde que**:
+1. a **prospecção direta** rode forte (traz metade dos leads de graça);
+2. você mantenha **5–8 apresentações/dia** realmente cheias;
+3. responda leads em **< 5 min** e feche bem.
+
+> Se um dia o pago não encher a agenda, **a prospecção tampa o buraco**. Por isso o Kit de
+> Prospecção (`17-...`) é tão crítico quanto os anúncios neste orçamento.
+> Quando o caixa permitir, **suba a verba** para destravar mais leads/dia.
+
+---
+
 ## 💰 ORÇAMENTO PARA 40 LEADS/DIA (cenários)
 
 O número depende do **CPL** (custo por lead). Com oferta de teste grátis + público local:

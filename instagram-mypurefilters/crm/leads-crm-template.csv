@@ -1,0 +1,4 @@
+Data,Nome,WhatsApp,Idioma (EN/PT/ES),Cidade,Tipo de imovel (Propria/Alugada/Apartamento),Produto de interesse (Full Home/RO/Shower/Faucet),Origem (Ads/Prospeccao/Indicacao/Parceria),Status (Novo/Qualificado/Agendado/Apresentado/Proposta/Fechado/Perdido),Data da visita,Proximo passo,Data proximo passo,Valor da venda (USD),Observacoes
+2026-06-08,Exemplo Maria,+1 407-000-0000,PT,Orlando,Propria,Full Home + RO,Ads,Agendado,2026-06-10,Confirmar visita 2h antes,2026-06-10,,Lead quente - pele seca
+2026-06-08,Ejemplo Carlos,+1 321-000-0000,ES,Kissimmee,Apartamento,RO,Prospeccao,Qualificado,,Enviar link de agendamento,2026-06-09,,Apartamento -> somente Osmose Reversa
+2026-06-08,Example John,+1 407-111-1111,EN,Lake Nona,Alugada,Shower + RO,Parceria (salao),Novo,,Primeiro contato em <5 min,2026-06-08,,Veio da parceria com salao de beleza
