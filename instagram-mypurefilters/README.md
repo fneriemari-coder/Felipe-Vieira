@@ -25,6 +25,7 @@ no nicho de filtragem de água premium nos EUA.
 |---|---|
 | [`00-guia-setup-rapido.md`](00-guia-setup-rapido.md) | **Passo a passo de setup** — Conta Business + bio EN/PT + botões + Calendly + link da bio (faça primeiro) |
 | [`01-perfil-e-bio.md`](01-perfil-e-bio.md) | Nome de usuário, nome do perfil, bio EN+PT, CTA, estratégia de link |
+| [`21-primeiros-9-posts.md`](21-primeiros-9-posts.md) | **Grade inicial** — os 9 primeiros posts na ordem de publicação (EN + ref. PT/ES) |
 | [`02-identidade-visual.md`](02-identidade-visual.md) | Paleta de cores, tipografia, foto de perfil, banners, design system, templates de feed |
 | [`03-destaques.md`](03-destaques.md) | 13 destaques, capas, sequência ideal e roteiro de cada |
 | [`04-feed-30-posts.md`](04-feed-30-posts.md) | 30 posts completos: tema, design, legenda EN+PT, CTA e hashtags |
