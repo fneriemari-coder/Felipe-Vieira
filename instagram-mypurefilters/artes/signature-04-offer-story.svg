@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" font-family="Poppins, 'Century Gothic', Montserrat, Arial, sans-serif">
+  <defs>
+    <radialGradient id="obg" cx="50%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#173a5e"/>
+      <stop offset="60%" stop-color="#0B1A2B"/>
+      <stop offset="100%" stop-color="#05080D"/>
+    </radialGradient>
+    <linearGradient id="oor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F0A03A"/><stop offset="100%" stop-color="#E8821E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#obg)"/>
+
+  <g stroke="#2C5A82" stroke-width="2" fill="none" opacity="0.22">
+    <circle cx="900" cy="420" r="170"/><circle cx="900" cy="420" r="250"/>
+    <circle cx="150" cy="1600" r="180"/><circle cx="150" cy="1600" r="260"/>
+  </g>
+
+  <!-- logo -->
+  <g transform="translate(540,330)" text-anchor="middle">
+    <text y="0" fill="#C9D3DD" font-size="24" letter-spacing="8" font-weight="500">MY PURE</text>
+    <text y="70" fill="#FFFFFF" font-size="82" font-weight="800" letter-spacing="-2">filter</text>
+  </g>
+
+  <!-- water drop -->
+  <path d="M540 470 C 596 556, 624 600, 624 654 a 84 84 0 1 1 -168 0 C 456 600, 484 556, 540 470 Z"
+        fill="none" stroke="url(#oor)" stroke-width="7"/>
+  <circle cx="540" cy="654" r="16" fill="#E8821E"/>
+
+  <text x="540" y="900" text-anchor="middle" fill="#E8821E" font-size="40" letter-spacing="4" font-weight="700">THIS MONTH ONLY</text>
+  <text x="540" y="1020" text-anchor="middle" fill="#FFFFFF" font-size="120" font-weight="800">FREE</text>
+  <text x="540" y="1110" text-anchor="middle" fill="#FFFFFF" font-size="72" font-weight="700">Water Test</text>
+  <text x="540" y="1180" text-anchor="middle" fill="#9FB3C8" font-size="36">Teste grátis da sua água — sem compromisso</text>
+
+  <text x="540" y="1300" text-anchor="middle" fill="#FFFFFF" font-size="34">Discover exactly what's in your tap water 💧</text>
+
+  <rect x="190" y="1430" width="700" height="120" rx="60" fill="url(#oor)"/>
+  <text x="540" y="1507" text-anchor="middle" fill="#0B1A2B" font-size="44" font-weight="700">TAP HERE → WhatsApp</text>
+
+  <text x="540" y="1660" text-anchor="middle" fill="#FFFFFF" font-size="30">👆 Toque no link / Swipe up</text>
+
+  <text x="540" y="1800" text-anchor="middle" fill="#9FB3C8" font-size="28" letter-spacing="3">OFFICIAL MY PURE FILTERS REP</text>
+  <text x="540" y="1845" text-anchor="middle" fill="#9FB3C8" font-size="26" letter-spacing="4">ORLANDO · MIAMI</text>
+</svg>

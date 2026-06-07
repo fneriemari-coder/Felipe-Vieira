@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F3ECE1"/>
+      <stop offset="100%" stop-color="#E6D8C6"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#2B2118" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#sand)"/>
+
+  <!-- PHOTO AREA: cole aqui beauty-naturally-radiant.jpg (pele radiante) -->
+  <rect x="60" y="60" width="960" height="900" rx="28" fill="#D8CBB8"/>
+  <text x="540" y="500" text-anchor="middle" fill="#A9997F" font-size="30" font-family="Poppins,Arial,sans-serif">[ FOTO: pele radiante — beauty-naturally-radiant.jpg ]</text>
+  <rect x="60" y="560" width="960" height="400" rx="0" fill="url(#fade)"/>
+
+  <!-- logo (claro, sobre a foto) -->
+  <g transform="translate(540,150)" text-anchor="middle" font-family="Poppins,Arial,sans-serif">
+    <text y="0" fill="#F3ECE1" font-size="20" letter-spacing="7" font-weight="500">MY PURE</text>
+    <text y="56" fill="#FFFFFF" font-size="66" font-weight="800" letter-spacing="-2">filter</text>
+  </g>
+
+  <!-- serif overlay (beauty voice) -->
+  <text x="540" y="900" text-anchor="middle" fill="#FFFFFF" font-size="86" font-style="italic" font-family="Georgia,'Times New Roman',serif">naturally radiant.</text>
+
+  <!-- benefits row -->
+  <g font-family="Poppins,Arial,sans-serif">
+    <text x="90" y="1055" fill="#7A4D1E" font-size="26" font-weight="700">PRESERVED HYDRATION</text>
+    <text x="90" y="1095" fill="#5C5142" font-size="24">Chlorine-free water keeps your skin's natural moisture</text>
+    <text x="90" y="1125" fill="#5C5142" font-size="24">Sem cloro ressecando — pele hidratada</text>
+
+    <text x="90" y="1185" fill="#7A4D1E" font-size="26" font-weight="700">LESS IRRITATION</text>
+    <text x="90" y="1225" fill="#5C5142" font-size="24">Removes impurities that cause itching &amp; redness</text>
+    <text x="90" y="1255" fill="#5C5142" font-size="24">Menos coceira e vermelhidão</text>
+  </g>
+
+  <!-- CTA -->
+  <rect x="640" y="1150" width="350" height="92" rx="46" fill="#E8821E"/>
+  <text x="815" y="1207" text-anchor="middle" fill="#FFFFFF" font-size="32" font-weight="700" font-family="Poppins,Arial,sans-serif">DM "SKIN" 🚿</text>
+
+  <text x="90" y="1310" fill="#8A7B66" font-size="22" font-family="Poppins,Arial,sans-serif" letter-spacing="2">FELIPE VIEIRA · OFFICIAL REP · ORLANDO &amp; MIAMI</text>
+</svg>

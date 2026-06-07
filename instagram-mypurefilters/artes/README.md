@@ -7,7 +7,21 @@ Artes vetoriais na identidade oficial da marca (navy `#0B1A2B`, laranja `#E8821E
 > artes foram entregues como **SVG** (universal e editável). Assim que a cota liberar, posso
 > gerar versões finais direto no Canva — é só pedir.
 
-## 📐 Arquivos
+> ✅ **Logo em todas as peças.** O wordmark "MY PURE filter" foi **recriado em vetor**
+> (`logo-mypure-filter.svg`) e embutido em todas as artes. Quando tiver o PNG/SVG oficial,
+> é só substituir por cima — a posição já está reservada.
+
+## ⭐ Conjunto-assinatura (recomendado — mais "chamativo", já com logo)
+
+| Arquivo | Formato | Uso |
+|---|---|---|
+| `signature-01-beauty-radiant.svg` | 1080×1350 | **Feed beleza** — "naturally radiant" (pele) + benefícios. Cole foto na área marcada. |
+| `signature-02-family-trust.svg` | 1080×1350 | **Feed emocional** — "The people you love deserve water you can trust". Cole foto da família. |
+| `signature-03-shower-story.svg` | 1080×1920 | **Story beleza** — "healthier skin & shinier hair" (Shower Filter). |
+| `signature-04-offer-story.svg` | 1080×1920 | **Story oferta** — teste grátis premium (navy + gota + CTA). |
+| `logo-mypure-filter.svg` | wordmark | Logo vetorial recriado (versão clara; trocar fills p/ fundo claro). |
+
+## 📐 Demais artes (kit completo — todas com logo)
 
 | Arquivo | Formato | Uso |
 |---|---|---|
@@ -18,6 +32,9 @@ Artes vetoriais na identidade oficial da marca (navy `#0B1A2B`, laranja `#E8821E
 | `story-01-free-test.svg` | 1080×1920 | Story de oferta (teste grátis) — coloque o sticker de link por cima do botão |
 | `story-02-skin-hair.svg` | 1080×1920 | Story de beleza (Shower Filter) — cole a foto na área indicada |
 | `highlight-covers.svg` | folha de referência | 14 capas de destaques (ícones brancos sobre navy) |
+
+> As peças com foto têm uma **área marcada** `[FOTO: ...]` indicando exatamente qual imagem
+> oficial colar (ver mapa em `../10-ativos-e-imagens.md`). O texto e o logo já vêm prontos por cima.
 
 ## 🔄 Como exportar para PNG/JPG (3 opções)
 1. **Canva:** Upload do SVG → "Editar" → ajustar fontes (Poppins p/ tech, serifada elegante p/ beauty) → exportar PNG.

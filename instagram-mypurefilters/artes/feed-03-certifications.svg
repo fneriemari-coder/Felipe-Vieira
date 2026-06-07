@@ -8,7 +8,12 @@
   </defs>
   <rect width="1080" height="1350" fill="url(#bg3)"/>
 
-  <text x="540" y="150" text-anchor="middle" fill="#E8821E" font-size="26" letter-spacing="6">CERTIFIED COMPONENTS &amp; STANDARDS</text>
+  <g transform="translate(540,90)" text-anchor="middle">
+    <text y="0" fill="#9FB3C8" font-size="16" letter-spacing="6" font-weight="500">MY PURE</text>
+    <text y="40" fill="#FFFFFF" font-size="44" font-weight="800" letter-spacing="-1">filter</text>
+  </g>
+
+  <text x="540" y="210" text-anchor="middle" fill="#E8821E" font-size="26" letter-spacing="6">CERTIFIED COMPONENTS &amp; STANDARDS</text>
 
   <text x="540" y="270" text-anchor="middle" fill="#FFFFFF" font-size="58" font-weight="600">Engineered with</text>
   <text x="540" y="345" text-anchor="middle" fill="#E8821E" font-size="58" font-style="italic" font-weight="700">industry-certified</text>

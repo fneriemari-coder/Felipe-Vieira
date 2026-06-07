@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="storyfade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.15"/>
+      <stop offset="55%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#1A130C" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+
+  <!-- PHOTO/VIDEO AREA: cole reel-shower-05-skin.jpg ou reel-shower-06-hair.jpg -->
+  <rect width="1080" height="1920" fill="#D8CBB8"/>
+  <text x="540" y="700" text-anchor="middle" fill="#A9997F" font-size="32" font-family="Poppins,Arial,sans-serif">[ FOTO/VÍDEO: pele &amp; cabelo no banho ]</text>
+  <rect width="1080" height="1920" fill="url(#storyfade)"/>
+
+  <!-- logo top -->
+  <g transform="translate(540,260)" text-anchor="middle" font-family="Poppins,Arial,sans-serif">
+    <text y="0" fill="#FFFFFF" font-size="22" letter-spacing="8" font-weight="500" opacity="0.9">MY PURE</text>
+    <text y="64" fill="#FFFFFF" font-size="74" font-weight="800" letter-spacing="-2">filter</text>
+  </g>
+
+  <!-- serif beauty headline -->
+  <text x="540" y="1180" text-anchor="middle" fill="#FFFFFF" font-size="100" font-style="italic" font-family="Georgia,'Times New Roman',serif">healthier skin</text>
+  <text x="540" y="1290" text-anchor="middle" fill="#FFFFFF" font-size="78" font-style="italic" font-family="Georgia,'Times New Roman',serif">&amp; shinier hair.</text>
+
+  <text x="540" y="1390" text-anchor="middle" fill="#F1E8DA" font-size="34" font-family="Poppins,Arial,sans-serif">Visible results in just a few washes</text>
+
+  <!-- CTA -->
+  <rect x="240" y="1500" width="600" height="120" rx="60" fill="#E8821E"/>
+  <text x="540" y="1577" text-anchor="middle" fill="#0B1A2B" font-size="46" font-weight="700" font-family="Poppins,Arial,sans-serif">DM "SKIN" 🚿</text>
+
+  <text x="540" y="1740" text-anchor="middle" fill="#F1E8DA" font-size="30" font-family="Poppins,Arial,sans-serif">the shower filter</text>
+  <text x="540" y="1790" text-anchor="middle" fill="#D9CBB8" font-size="26" font-family="Poppins,Arial,sans-serif" letter-spacing="3">ORLANDO · MIAMI</text>
+</svg>

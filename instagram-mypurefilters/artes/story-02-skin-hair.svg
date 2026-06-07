@@ -12,6 +12,12 @@
   <text x="540" y="540" text-anchor="middle" fill="#A9997F" font-size="34" font-family="Poppins, Arial, sans-serif">[ COLE AQUI A FOTO: pele/cabelo no banho ]</text>
   <text x="540" y="590" text-anchor="middle" fill="#A9997F" font-size="28" font-family="Poppins, Arial, sans-serif">use beauty-naturally-radiant.jpg ou reel-shower-05</text>
 
+  <!-- logo -->
+  <g transform="translate(540,180)" text-anchor="middle" font-family="Poppins, Arial, sans-serif">
+    <text y="0" fill="#FFFFFF" font-size="20" letter-spacing="7" font-weight="500" opacity="0.95">MY PURE</text>
+    <text y="58" fill="#FFFFFF" font-size="64" font-weight="800" letter-spacing="-2">filter</text>
+  </g>
+
   <!-- elegant serif overlay -->
   <text x="540" y="900" text-anchor="middle" fill="#FFFFFF" font-size="92" font-style="italic">healthier skin</text>
   <text x="540" y="1010" text-anchor="middle" fill="#FFFFFF" font-size="72" font-style="italic">&amp; shinier hair.</text>
