@@ -41,6 +41,7 @@ no nicho de filtragem de água premium nos EUA.
 | [`16-setup-agendamento.md`](16-setup-agendamento.md) | **Setup de agendamento** — Calendly + ManyChat (palavra-chave) + mensagens automáticas EN/PT/ES + speed-to-lead |
 | [`17-kit-prospeccao.md`](17-kit-prospeccao.md) | **Kit de prospecção** — foco em beleza/estética/saúde, grupos, DM, indicação, presencial (mensagens EN/PT/ES) |
 | [`crm/`](crm/) | **Planilhas CSV** — CRM de leads + placar diário rumo às 40 vendas |
+| [`18-direcao-criativa.md`](18-direcao-criativa.md) | **Brand Playbook (direção de criação)** — a grande ideia "PURE CHANGES EVERYTHING", teste dos 3s, franquias de conteúdo, 3 campanhas-herói, tom de voz EN/PT/ES, fórmula de impacto, uso do logo |
 | [`artes/`](artes/) | **Logo vetorial** da marca. A arte final dos posts será produzida no **Canva** (quando a cota voltar) usando os briefs do arquivo 11 |
 
 ---
